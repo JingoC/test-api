@@ -1,0 +1,5 @@
+{
+  "auth": [
+    { "login": 'test', "password": "123" }
+  ],
+}
